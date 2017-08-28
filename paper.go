@@ -1,4 +1,4 @@
-package blog
+package paper
 
 import (
 	"bytes"

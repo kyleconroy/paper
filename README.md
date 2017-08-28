@@ -10,6 +10,11 @@ Use the `paper` package via `dep`.
 dep ensure -add github.com/kyleconroy/paper
 ```
 
+## Status
+
+This client is ready to use, but only a subset of the API methods have been
+implemented.
+
 ## Usage
 
 ```go
